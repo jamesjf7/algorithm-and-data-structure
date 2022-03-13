@@ -3,5 +3,5 @@ module.exports = {
         siteUrl: `https://www.yourdomain.tld`,
     },
     pathPrefix: "/algorithm-and-data-structure",
-    plugins: [],
+    plugins: ["gatsby-plugin-postcss"],
 };
